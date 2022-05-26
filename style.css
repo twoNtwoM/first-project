@@ -1,3 +1,7 @@
-.text {
+.header__text {
   color: aquamarine;
+}
+
+.header__paragraph {
+  color: cyan;
 }
